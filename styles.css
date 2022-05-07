@@ -12,15 +12,77 @@ body {
     box-shadow: 15px 10px 10px rgb(57, 56, 56);
 }
 
-.info p {
-
+.avatar-text h1 {
+    display:flex;
 }
 
+.info h1 {
+    display:flex;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+}
+
+}
 .personal {
-
+    
 }
+
+.bg-PD {
+    background-color: lightsteelblue;
+}
+
+.bg-EDU {
+    background-color: rgb(176, 218, 222);
+}
+.card {
+    border-radius: 20px;
+    padding: 10px;
+}
+.card h2 {
+    text-align: center
+}
+
+
+.bg-PROF {
+    background-color: rgb(195, 222, 176);
+}
+
+.bg-LANG {
+    background-color: rgb(184, 168, 246);
+}
+
+.bg-PAPERS {
+    background-color: rgb(244, 170, 172); border-radius: 20px;
+}
+
+.card {
+    border-radius: 20px;
+    padding: 10px;
+}
+.card h2 {
+    text-align: center
+}
+
 
 .conteiner {
-    width: 95%;
+    width: 95%;ß
     margin: auto;
+}
+.conteiner h2 < {
+    text-align: center;
+}
+
+.text h2 {
+    text-align: center;
 }
